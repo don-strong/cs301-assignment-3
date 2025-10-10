@@ -1,0 +1,16 @@
+# MacOS and editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Logs and temp
+*.log
+*.tmp
+tmp/
+
+# Node / Python
+node_modules/
+__pycache__/
+*.pyc
+.env
