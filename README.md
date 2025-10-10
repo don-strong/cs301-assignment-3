@@ -15,5 +15,5 @@ You will:
 4) `git push -u origin firstname-lastname-dev`
 5) Open a PR into `main` with the title "Added introduction - Firstname Lastname"
 6) Assign the instructor as reviewer; leave PR open for grading
-
+7) Submit the URL for your PR to Canvas for grading
 See the full assignment sheet on Canvas for details (or the PDF provided).
