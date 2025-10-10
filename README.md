@@ -5,7 +5,7 @@ You will:
 - Create a personal branch
 - Update `intro.md` with a brief introduction
 - Push your branch
-- Open a Pull Request (PR) and assign the instructor (don-strong or donald.strong@skagit.edu) as a reviewer
+- Open a Pull Request (PR) and assign the instructor (@dwstrong5 or donald.strong@skagit.edu) as a reviewer
 - Do *not* merge your Pull Request -- it will be used for grading
 
 ## Assignment Steps (Short)
