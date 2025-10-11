@@ -13,6 +13,7 @@ I've done small projects in Python and markdown-based documentation.
 ---
 
 ## Your Section (replace the placeholders below)
-**Name:** <Your Name>  
-**Background:** <3–5 sentences about your programming experience/interests.>  
-**One Git Command:** `<pick one>` — <why you find it useful/confusing>.
+**Name:** <Justin Brown>  
+**Background:** I have a 2 year degree from SVC for IT Administration and Database Management and I am on my third year working for a Bachelor's in Computer Sciences, making this my 5th year at SVC. I have worked with IT a little at both campuses and have some small hobby projects I like to do at home. I have done some minor scripting at WIC with IT as well. I love everything having to do with 
+computer science and am excited to get on with this quarter.>  
+**One Git Command:** `<checkout -b>` — <Makes the job a lot easier when you can create and navigate to the directory/branch at the same time.>.
