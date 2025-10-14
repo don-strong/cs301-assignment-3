@@ -13,6 +13,7 @@ I've done small projects in Python and markdown-based documentation.
 ---
 
 ## Your Section (replace the placeholders below)
-**Name:** <Your Name>  
-**Background:** <3–5 sentences about your programming experience/interests.>  
-**One Git Command:** `<pick one>` — <why you find it useful/confusing>.
+**Name:** Lawrence Branch  
+**Background:** I have experience in Java, a bit of Python experience, and some experience in JavaScript/CSS/HTML.
+I also have used some simplified languages in some games I have played (From the Depths Lua and breadboard systems, as well as Stormworks Lua)
+**One Git Command:** 'git diff random-branch-name-here` shows the difference between what is committed to one branch and the main branch.
