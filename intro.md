@@ -13,6 +13,7 @@ I've done small projects in Python and markdown-based documentation.
 ---
 
 ## Your Section (replace the placeholders below)
-**Name:** <Your Name>  
-**Background:** <3–5 sentences about your programming experience/interests.>  
-**One Git Command:** `<pick one>` — <why you find it useful/confusing>.
+**Name:** Tevita Mathias  
+**Background:** I have a high interest in becoming a backend developer or data scientist. Ive currently done 
+smaller projects working with different languages and frameworks such as python, java, javascript, node, and spring.  
+**One Git Command:** 'git status' it shwos me the current state of the directory and staging area
