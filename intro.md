@@ -13,6 +13,6 @@ I've done small projects in Python and markdown-based documentation.
 ---
 
 ## Your Section (replace the placeholders below)
-**Name:** <Your Name>  
-**Background:** <3–5 sentences about your programming experience/interests.>  
-**One Git Command:** `<pick one>` — <why you find it useful/confusing>.
+**Name:** Luci Crow  
+**Background:** I have done quite a bit with java so far. My first year of programming allowed me to learn how to use java basics well and understand syntax for the language and how to use it. I've programmed a help desk and some different games and shown and calculated data using python.  
+**One Git Command:** `git checkout` — I think it's useful because it creates and switches to the branch created instead of having two commands.
