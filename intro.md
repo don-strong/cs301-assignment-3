@@ -13,6 +13,6 @@ I've done small projects in Python and markdown-based documentation.
 ---
 
 ## Your Section (replace the placeholders below)
-**Name:** <Your Name>  
-**Background:** <3–5 sentences about your programming experience/interests.>  
-**One Git Command:** `<pick one>` — <why you find it useful/confusing>.
+**Name:** Angela Alfaro Garrido  
+**Background:**  I am experienced in Java. I also know python where I previously was taught in EWU. I was able to learn about website building using CSS, HTML, and JavaScript a few months ago. I am interested in cybersecurity.
+**One Git Command:** `git status` is useful because it can be used to understand the file state and directory.
