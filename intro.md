@@ -13,6 +13,6 @@ I've done small projects in Python and markdown-based documentation.
 ---
 
 ## Your Section (replace the placeholders below)
-**Name:** <Your Name>  
-**Background:** <3–5 sentences about your programming experience/interests.>  
-**One Git Command:** `<pick one>` — <why you find it useful/confusing>.
+**Name:** Gavin Poortinga 
+**Background:** I starting my coding adventures in 5th grade with some block code. In high school I took all the coding classes offered, which they offered more than expected. Even still I had run out of classes to take so I split my schedule to attended NCTA for video game development.
+**One Git Command:** `cd` helps me keep assignments in their own directories.
